@@ -1,0 +1,29 @@
+C:\Users\Martin Müller\OneDrive - BITLC Business IT Learning Center GmbH\OOP\SichereEingabe\TestKlasse\bin\Debug\net6.0\TestKlasse.exe
+C:\Users\Martin Müller\OneDrive - BITLC Business IT Learning Center GmbH\OOP\SichereEingabe\TestKlasse\bin\Debug\net6.0\TestKlasse.deps.json
+C:\Users\Martin Müller\OneDrive - BITLC Business IT Learning Center GmbH\OOP\SichereEingabe\TestKlasse\bin\Debug\net6.0\TestKlasse.runtimeconfig.json
+C:\Users\Martin Müller\OneDrive - BITLC Business IT Learning Center GmbH\OOP\SichereEingabe\TestKlasse\bin\Debug\net6.0\TestKlasse.dll
+C:\Users\Martin Müller\OneDrive - BITLC Business IT Learning Center GmbH\OOP\SichereEingabe\TestKlasse\bin\Debug\net6.0\TestKlasse.pdb
+C:\Users\Martin Müller\OneDrive - BITLC Business IT Learning Center GmbH\OOP\SichereEingabe\TestKlasse\obj\Debug\net6.0\TestKlasse.csproj.AssemblyReference.cache
+C:\Users\Martin Müller\OneDrive - BITLC Business IT Learning Center GmbH\OOP\SichereEingabe\TestKlasse\obj\Debug\net6.0\TestKlasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin Müller\OneDrive - BITLC Business IT Learning Center GmbH\OOP\SichereEingabe\TestKlasse\obj\Debug\net6.0\TestKlasse.AssemblyInfoInputs.cache
+C:\Users\Martin Müller\OneDrive - BITLC Business IT Learning Center GmbH\OOP\SichereEingabe\TestKlasse\obj\Debug\net6.0\TestKlasse.AssemblyInfo.cs
+C:\Users\Martin Müller\OneDrive - BITLC Business IT Learning Center GmbH\OOP\SichereEingabe\TestKlasse\obj\Debug\net6.0\TestKlasse.csproj.CoreCompileInputs.cache
+C:\Users\Martin Müller\OneDrive - BITLC Business IT Learning Center GmbH\OOP\SichereEingabe\TestKlasse\obj\Debug\net6.0\TestKlasse.dll
+C:\Users\Martin Müller\OneDrive - BITLC Business IT Learning Center GmbH\OOP\SichereEingabe\TestKlasse\obj\Debug\net6.0\refint\TestKlasse.dll
+C:\Users\Martin Müller\OneDrive - BITLC Business IT Learning Center GmbH\OOP\SichereEingabe\TestKlasse\obj\Debug\net6.0\TestKlasse.pdb
+C:\Users\Martin Müller\OneDrive - BITLC Business IT Learning Center GmbH\OOP\SichereEingabe\TestKlasse\obj\Debug\net6.0\TestKlasse.genruntimeconfig.cache
+C:\Users\Martin Müller\OneDrive - BITLC Business IT Learning Center GmbH\OOP\SichereEingabe\TestKlasse\obj\Debug\net6.0\ref\TestKlasse.dll
+E:\C# Codes\SichereEingabe\TestKlasse\bin\Debug\net6.0\TestKlasse.exe
+E:\C# Codes\SichereEingabe\TestKlasse\bin\Debug\net6.0\TestKlasse.deps.json
+E:\C# Codes\SichereEingabe\TestKlasse\bin\Debug\net6.0\TestKlasse.runtimeconfig.json
+E:\C# Codes\SichereEingabe\TestKlasse\bin\Debug\net6.0\TestKlasse.dll
+E:\C# Codes\SichereEingabe\TestKlasse\bin\Debug\net6.0\TestKlasse.pdb
+E:\C# Codes\SichereEingabe\TestKlasse\obj\Debug\net6.0\TestKlasse.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Codes\SichereEingabe\TestKlasse\obj\Debug\net6.0\TestKlasse.AssemblyInfoInputs.cache
+E:\C# Codes\SichereEingabe\TestKlasse\obj\Debug\net6.0\TestKlasse.AssemblyInfo.cs
+E:\C# Codes\SichereEingabe\TestKlasse\obj\Debug\net6.0\TestKlasse.csproj.CoreCompileInputs.cache
+E:\C# Codes\SichereEingabe\TestKlasse\obj\Debug\net6.0\TestKlasse.dll
+E:\C# Codes\SichereEingabe\TestKlasse\obj\Debug\net6.0\refint\TestKlasse.dll
+E:\C# Codes\SichereEingabe\TestKlasse\obj\Debug\net6.0\TestKlasse.pdb
+E:\C# Codes\SichereEingabe\TestKlasse\obj\Debug\net6.0\TestKlasse.genruntimeconfig.cache
+E:\C# Codes\SichereEingabe\TestKlasse\obj\Debug\net6.0\ref\TestKlasse.dll
