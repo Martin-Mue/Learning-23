@@ -1,0 +1,15 @@
+C:\Users\Martin Müller\OneDrive - BITLC Business IT Learning Center GmbH\OOP\MonkeyIsland\MonkeyIsland\bin\Debug\net6.0\MonkeyIsland.exe
+C:\Users\Martin Müller\OneDrive - BITLC Business IT Learning Center GmbH\OOP\MonkeyIsland\MonkeyIsland\bin\Debug\net6.0\MonkeyIsland.deps.json
+C:\Users\Martin Müller\OneDrive - BITLC Business IT Learning Center GmbH\OOP\MonkeyIsland\MonkeyIsland\bin\Debug\net6.0\MonkeyIsland.runtimeconfig.json
+C:\Users\Martin Müller\OneDrive - BITLC Business IT Learning Center GmbH\OOP\MonkeyIsland\MonkeyIsland\bin\Debug\net6.0\MonkeyIsland.dll
+C:\Users\Martin Müller\OneDrive - BITLC Business IT Learning Center GmbH\OOP\MonkeyIsland\MonkeyIsland\bin\Debug\net6.0\MonkeyIsland.pdb
+C:\Users\Martin Müller\OneDrive - BITLC Business IT Learning Center GmbH\OOP\MonkeyIsland\MonkeyIsland\obj\Debug\net6.0\MonkeyIsland.csproj.AssemblyReference.cache
+C:\Users\Martin Müller\OneDrive - BITLC Business IT Learning Center GmbH\OOP\MonkeyIsland\MonkeyIsland\obj\Debug\net6.0\MonkeyIsland.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin Müller\OneDrive - BITLC Business IT Learning Center GmbH\OOP\MonkeyIsland\MonkeyIsland\obj\Debug\net6.0\MonkeyIsland.AssemblyInfoInputs.cache
+C:\Users\Martin Müller\OneDrive - BITLC Business IT Learning Center GmbH\OOP\MonkeyIsland\MonkeyIsland\obj\Debug\net6.0\MonkeyIsland.AssemblyInfo.cs
+C:\Users\Martin Müller\OneDrive - BITLC Business IT Learning Center GmbH\OOP\MonkeyIsland\MonkeyIsland\obj\Debug\net6.0\MonkeyIsland.csproj.CoreCompileInputs.cache
+C:\Users\Martin Müller\OneDrive - BITLC Business IT Learning Center GmbH\OOP\MonkeyIsland\MonkeyIsland\obj\Debug\net6.0\MonkeyIsland.dll
+C:\Users\Martin Müller\OneDrive - BITLC Business IT Learning Center GmbH\OOP\MonkeyIsland\MonkeyIsland\obj\Debug\net6.0\refint\MonkeyIsland.dll
+C:\Users\Martin Müller\OneDrive - BITLC Business IT Learning Center GmbH\OOP\MonkeyIsland\MonkeyIsland\obj\Debug\net6.0\MonkeyIsland.pdb
+C:\Users\Martin Müller\OneDrive - BITLC Business IT Learning Center GmbH\OOP\MonkeyIsland\MonkeyIsland\obj\Debug\net6.0\MonkeyIsland.genruntimeconfig.cache
+C:\Users\Martin Müller\OneDrive - BITLC Business IT Learning Center GmbH\OOP\MonkeyIsland\MonkeyIsland\obj\Debug\net6.0\ref\MonkeyIsland.dll
